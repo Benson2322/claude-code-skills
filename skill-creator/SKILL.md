@@ -84,6 +84,9 @@ Skills use a three-level loading system to manage context efficiently:
 
 *Unlimited because scripts can be executed without reading into context window.
 
+## Skill Creation Best Practice
+Anthropic has wrote skill authoring best practices, you SHOULD retrieve it before you create or update any skills, the link is https://docs.claude.com/en/docs/agents-and-tools/agent-skills/best-practices.md
+
 ## Skill Creation Process
 
 To create a skill, follow the "Skill Creation Process" in order, skipping steps only if there is a clear reason why they are not applicable.
